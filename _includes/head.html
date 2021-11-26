@@ -106,9 +106,9 @@
   <meta property="og:title" content="{{ title }}">
   <meta property="og:description" content="{{ description }}">
 
-  {% if img != "" %}
+  
   <meta property="og:image" content="{{ site.avatar | absolute_url }}">
-  {% endif %}
+  
 
   {% if page.id %}
   <meta property="og:type" content="article">
@@ -133,9 +133,9 @@
   <meta property="twitter:title" content="{{ title }}">
   <meta property="twitter:description" content="{{ description }}">
 
-  {% if img != "" %}
+  
   <meta name="twitter:image" content="{{ site.avatar | absolute_url }}">
-  {% endif %}
+  
 
   {% include matomo.html %}
 
