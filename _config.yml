@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Technology Tips
+title: Alen's Techn Tips
 
 # Your name to show in the footer
 author: Alen Alex
@@ -62,7 +62,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: Tech Tips
+rss-description: Alen's Tech Tips
 
 # --- General options --- #
 
