@@ -16,6 +16,8 @@ vim .bash_profile
 # add/update alias
 ```
 
+Update the file.
+
 ``` bash
 alias c="clear"
 alias som="some"
