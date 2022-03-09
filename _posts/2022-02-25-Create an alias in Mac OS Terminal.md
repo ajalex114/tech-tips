@@ -1,6 +1,6 @@
 ---
 title:  "Create an alias in Mac OS Terminal" 
-categories: [accessibility]
+categories: [tips]
 description: How to Create an alias in Mac OS Terminal
 tags: [macos, keyboard-shortcuts]
 --- 
